@@ -1,0 +1,6 @@
+num = -1
+while num <= 0:
+    num = int(input("Enter a positive number: "))
+    if num <= 0:
+        print("Try again, number must be positive.")
+print("You entered:", num)
