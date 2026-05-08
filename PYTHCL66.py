@@ -1,4 +1,3 @@
-# Solution as follows
 
 r, k = map(int, input().split())
 
