@@ -1,0 +1,6 @@
+items = ['apple', 'banana', 'apple', 'orange', 'banana']
+count_dict = {}
+for item in items:
+    count_dict[item] = count_dict.get(item, 0) + 1
+
+print("Item counts:", count_dict)
