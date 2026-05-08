@@ -1,5 +1,3 @@
-# Solution as follows
-
 age = int(input())
 
 if age >= 18:
