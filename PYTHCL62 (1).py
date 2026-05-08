@@ -1,4 +1,3 @@
-# Solution as follows
 
 age = int(input())
 
