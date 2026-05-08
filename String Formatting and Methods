@@ -1,0 +1,7 @@
+name = "Alice"
+age = 25
+greeting = f"My name is {name} and I am {age} years old."
+
+uppercase_greeting = greeting.upper()
+print("Original:", greeting)
+print("Uppercase:", uppercase_greeting)
