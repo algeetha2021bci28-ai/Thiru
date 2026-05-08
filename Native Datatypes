@@ -1,0 +1,11 @@
+num = 42                # integer
+pi = 3.14159            # float
+name = "Alice"          # string
+fruits = ["apple", "banana", "cherry"]  # list
+person = {"name": "Bob", "age": 25}    # dictionary
+is_active = True        # boolean
+
+print(num, pi, name)
+print(fruits)
+print(person)
+print("Is active:", is_active)
